@@ -8,3 +8,5 @@
 
 
 ![deep](main.gif)
+
+> ## Thanks Traversy Media for Design 🙏🙏🙏
